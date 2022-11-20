@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Psotle
-- 👀 I’m interested in Rust and Game engines
 - 📫 How to reach me ... https://linktr.ee/psotle
 - I am psotle (https://keybase.io/psotle) on keybase.
