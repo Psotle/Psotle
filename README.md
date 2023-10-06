@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Psotle
-- 📫 How to reach me ... https://linktr.ee/psotle
-- I am psotle (https://keybase.io/psotle) on keybase.
+- 📫 http://psotle.online
