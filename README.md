@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @Psotle
-- 📫 http://psotle.online
